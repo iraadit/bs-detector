@@ -394,7 +394,7 @@ function _bsDetector() {
 		'wundergroundmusic.com',
 		'yourfunpage.com',
 		'yournewswire.com',
-		'zaytung.com'
+		'zaytung.com',
 
 		// French websites
 		'1eclaireur.wordpress.com'
