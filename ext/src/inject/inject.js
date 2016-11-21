@@ -467,7 +467,7 @@ chrome.extension.sendMessage({}, function(response) {
 			'tvlibertes.com',
 			'voltairenet.org',
 			'voxnr.com',
-			'wikistrike.com',
+			'wikistrike.com'
 		];
 
 		linkWarning = function() {

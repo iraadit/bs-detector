@@ -481,7 +481,7 @@ function _bsDetector() {
 		'tvlibertes.com',
 		'voltairenet.org',
 		'voxnr.com',
-		'wikistrike.com',
+		'wikistrike.com'
 	];
 
 	/**
